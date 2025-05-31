@@ -1,0 +1,5 @@
+name = "PokerPackages"
+uuid = "b3d2863f-4b28-46b8-9387-83b2bc4b747a"
+repo = "https://github.com/brewer-b/PokerPackages"
+
+[packages]
