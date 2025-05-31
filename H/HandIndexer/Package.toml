@@ -1,0 +1,3 @@
+name = "HandIndexer"
+uuid = "7430f128-940e-49f2-a354-7ecb89d6db41"
+repo = "https://github.com/brewer-b/HandIndexer.jl.git"
