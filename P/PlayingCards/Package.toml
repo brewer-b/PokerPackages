@@ -1,0 +1,3 @@
+name = "PlayingCards"
+uuid = "a9994b6a-d280-4708-9be4-3391e8077a39"
+repo = "https://github.com/brewer-b/PlayingCards.jl.git"

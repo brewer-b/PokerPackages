@@ -4,3 +4,4 @@ repo = "https://github.com/brewer-b/PokerPackages"
 
 [packages]
 5c98f22e-6f8a-5fbb-be72-8ec561d7abe1 = { name = "ACE_eval_jll", path = "jll/A/ACE_eval_jll" }
+a9994b6a-d280-4708-9be4-3391e8077a39 = { name = "PlayingCards", path = "P/PlayingCards" }
