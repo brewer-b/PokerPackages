@@ -3,3 +3,4 @@ uuid = "b3d2863f-4b28-46b8-9387-83b2bc4b747a"
 repo = "https://github.com/brewer-b/PokerPackages"
 
 [packages]
+5c98f22e-6f8a-5fbb-be72-8ec561d7abe1 = { name = "ACE_eval_jll", path = "jll/A/ACE_eval_jll" }
