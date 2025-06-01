@@ -1,0 +1,5 @@
+[0]
+ACE_eval = "d547f78b-dca9-4d44-8eff-fc3e83893bd9"
+BenchmarkTools = "6e4b80f9-dd63-53aa-95a3-0cdb28fa8baf"
+PlayingCards = "a9994b6a-d280-4708-9be4-3391e8077a39"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"

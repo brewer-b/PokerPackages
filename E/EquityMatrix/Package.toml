@@ -1,0 +1,3 @@
+name = "EquityMatrix"
+uuid = "66876a2f-14c3-4eb6-af33-82ca35fd226d"
+repo = "https://github.com/brewer-b/EquityMatrix.jl.git"

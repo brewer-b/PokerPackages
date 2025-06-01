@@ -1,0 +1,5 @@
+[0]
+ACE_eval = "0.1"
+BenchmarkTools = "1.6.0 - 1"
+PlayingCards = "0.1"
+Test = "1.11.0 - 1"
